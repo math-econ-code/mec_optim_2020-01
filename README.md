@@ -108,7 +108,7 @@ Open `Anaconda Prompt` or `terminal` and navigate to the directory where gurobi 
 ```
 For Mac
 ```
-cd '/Library/gurobi900/mac64
+cd /Library/gurobi900/mac64
 ```
 Then type
 ```
