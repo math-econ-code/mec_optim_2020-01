@@ -30,7 +30,7 @@ I will provide installation instructions for Windows and Mac users. If you are u
    If `R` is in your path, otherwise navigate there. Default for Windows is 
 
    ```
-   cd "C:\Program Files\R\R-3.6.0\bin"
+   cd "C:\Program Files\R\R-3.6.2\bin"
    ```
 
 4. Install the R kernel 
@@ -73,7 +73,7 @@ We will need a license to use Gurobi, (which is usually expensive), but there is
 
 1. Install git
    * **Mac users:** open terminal and run ```git --version```. If you don't have git installed, you will be prompted to do so.
-   * **Windows users:** go to the [Git for Windows](https://gitforwindows.org/) download page and install. I recommend also installing [Visual Studio Code](https://code.visualstudio.com/	) for a text editor, unless you already use SublimeText or vim. Alternatively [GitHub Desktop](https://desktop.github.com/) is a nice GUI for Git.
+   * **Windows users:** go to the [Git for Windows](https://gitforwindows.org/) download page and install. I recommend also installing [Visual Studio Code](https://code.visualstudio.com/) for a text editor, unless you already use SublimeText or vim. Alternatively [GitHub Desktop](https://desktop.github.com/) is a nice GUI for Git.
 
 2. Open git
 
