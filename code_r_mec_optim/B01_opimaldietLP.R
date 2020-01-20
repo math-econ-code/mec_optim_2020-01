@@ -44,17 +44,6 @@ print(foods_stigler)
 print(paste0("Total cost (Stigler)= ", sum(foods_stigler * c[toKeepStigler])))
 print("**************************")
 
-
-# alternatively, use Mosek
-
-# mosek_attachbuilder("C:/Program Files/Mosek/9.1/tools/platform/win64x86/bin")
-# install.rmosek()
-
-print("*** Optimal solution using Mosek ***")
-mosekProblem = list(sense = "min", c= c, A=N, bc = rbind(d,Inf), bx = rbind(rep(0,nbCommodities),Inf) )
-resMosek = mosek(mosekProblem , opts = list(verbose=1))
-print(365*sum(resMosek$sol$itr$xx*c) )
-
 # alternatively, use glpk
 print("*** Optimal solution using Rglpk ***")
 
