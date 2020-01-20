@@ -96,6 +96,17 @@ We will need a license to use Gurobi, (which is usually expensive), but there is
    ```
    This is only scratching the surface of what we can do with Git and GitHub. It is an amazing way to version control and collaborate on your code. There are lots of great tutorials on how to use both Git and GitHub and I strongly recommend you get into the habit of using it.
 
-## Gurobi and R playing nicely
+## Gurobi and R 
 
 Once you have cloned the mec_optim repo, open `gurobi_finalsetup.R` (in the `setup_mec_optim` folder) in Rstudio and run the code.
+
+## Gurobi and Python
+
+Open `Anaconda Prompt` or `terminal` and navigate to the directory where gurobi installed. On windows, this is 
+```
+  cd  C:\gurobi900\win64
+```
+Then type
+```
+  python setup.py install
+```
