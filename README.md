@@ -106,6 +106,10 @@ Open `Anaconda Prompt` or `terminal` and navigate to the directory where gurobi 
 ```
   cd  C:\gurobi900\win64
 ```
+For Mac
+```
+cd '/Library/gurobi900/mac64
+```
 Then type
 ```
   python setup.py install
