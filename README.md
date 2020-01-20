@@ -1,6 +1,9 @@
 # mec_optim_2020-01
 ‘math+econ+code’ masterclass on optimal transport and economic applications, NYU, Jan 20-24, 2020.
 
+# Google form link
+https://goo.gl/forms/5WLfkpc3GNCecd6A3
+
 # Getting set up
 
 In this course, we will primarily using R as our primary programming language. We will also have code available for Python and Julia, but these will be unsupported, so use at your own risk. The code will be presented using Jupyter notebooks, or you can run in RStudio. In addition we will using Gurobi, a commercial linear programming solver. The course will be hosted on github, and I encourage everyone to use git to pull from the repository. 
