@@ -1,7 +1,7 @@
 rm(list=ls())
 
 ## Windows
-#install.packages("C:/gurobi810/win64/R/gurobi_9.0-0.zip", repos = NULL)
+#install.packages("C:/gurobi900/win64/R/gurobi_9.0-0.zip", repos = NULL)
 ## Mac 
 #install.packages('/Library/gurobi900/mac64/R/gurobi_9.0-0.tgz', repos=NULL) 
 ## Linux
