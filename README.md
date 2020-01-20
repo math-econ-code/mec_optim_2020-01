@@ -95,4 +95,4 @@ We will need a license to use Gurobi, (which is usually expensive), but there is
 
 ## Gurobi and R playing nicely
 
-Once you have cloned the mec_optim repo, open ```gurobi_finalsetup.R``` (in the ```setup_mec_optim''' folder) in Rstudio and run the code.
+Once you have cloned the mec_optim repo, open `gurobi_finalsetup.R` (in the `setup_mec_optim` folder) in Rstudio and run the code.
