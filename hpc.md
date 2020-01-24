@@ -1,8 +1,8 @@
 # A quick tutorial on the HPC
 
-The high performance computing resources of NYU are super useful for researchers. If you are doing large compute jobs you are able to access more resources than you probably have access to on your local machine (including GPU resorces). Also working remotely allows you free up your local machine for important, non-compute activities without having to worry about a crash ruining your work.
+The high performance computing resources of NYU are super useful for researchers. If you are doing large compute jobs you are able to access more resources than you probably have access to on your local machine (including GPU resources). Also working remotely allows you free up your local machine for important, non-compute activities without having to worry about a crash ruining your work.
 
-A guide to the HPC is found on the [HPC wiki](https://wikis.nyu.edu/). Unforunately the HPC wiki isn't the greatest resource and often relies on quite a bit of presumed knowledge (in particular you need to be quite comfortable using a terminal).
+A guide to the HPC is found on the [HPC wiki](https://wikis.nyu.edu/). Unfortunately the HPC wiki isn't the greatest resource and often relies on quite a bit of presumed knowledge (in particular you need to be quite comfortable using a terminal).
 
 So hopefully this guide will help.
 
